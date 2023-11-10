@@ -1,0 +1,63 @@
+/* ! Q2 answer */
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+}
+div.gallery img {
+    width: 200px;
+    height: 250px;
+    padding-left: 50px;
+}
+div.describe {
+    padding: 15px;
+    text-align: center;
+}
+
+/* ! Q3 answer */
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+th,td {
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 5px;
+}
+.delete-btn {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    padding: 6px 10px;
+    cursor: pointer;
+}
+
+/* ! Q4 answer */
+
+#ip14{
+    width: 200px;
+    height: 250px;
+    padding-left: 50px;
+}
+
+/* ! Q5 answer */
+#main {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#counter {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.Btn {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+}
